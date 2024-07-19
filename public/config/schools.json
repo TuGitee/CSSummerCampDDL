@@ -4116,6 +4116,56 @@
             "tags": [
                 "研究院"
             ]
+        },
+        {
+            "name": "南京航空航天大学",
+            "institute": "计算机科学与技术学院/人工智能学院/软件学院",
+            "description": "",
+            "deadline": "2024-09-19T00:00:00+08:00",
+            "website": "https://cs.nuaa.edu.cn/2024/0621/c10851a347584/page.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "南京航空航天大学",
+            "institute": "国际前沿科学研究院",
+            "description": "",
+            "deadline": "2024-09-19T00:00:00+08:00",
+            "website": "https://ifs.nuaa.edu.cn/2024/0701/c15910a348312/page.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "南京理工大学",
+            "institute": "智能计算成像实验室（SCILab）",
+            "description": "",
+            "deadline": "2024-07-21T00:00:00+08:00",
+            "website": "https://scilaboratory.com/h-nd-655.html",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "北京邮电大学",
+            "institute": "电子工程学院",
+            "description": "",
+            "deadline": "2024-08-01T00:00:00+08:00",
+            "website": "https://see.bupt.edu.cn/info/1047/2741.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "北京邮电大学",
+            "institute": "信息与通信工程学院",
+            "description": "",
+            "deadline": "2024-08-01T00:00:00+08:00",
+            "website": "https://sice.bupt.edu.cn/info/1013/2326.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }

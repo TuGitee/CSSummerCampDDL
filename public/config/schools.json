@@ -4476,8 +4476,8 @@
             "name": "北京航空航天大学",
             "institute": "无人系统研究院",
             "description": "",
-            "deadline": "2024-08-14T18:00:00+08:00",
-            "website": "https://wrj.buaa.edu.cn/info/1008/2226.htm",
+            "deadline": "2024-09-20T12:00:00+08:00",
+            "website": "https://wrj.buaa.edu.cn/info/1008/2278.htm",
             "tags": [
                 "985",
                 "211"
@@ -6371,6 +6371,189 @@
                 "985",
                 "211",
                 "C9"
+            ]
+        },
+        {
+            "name": "北京师范大学",
+            "institute": "接收校内外推荐免试硕士博士",
+            "description": "",
+            "deadline": "2024-09-24T00:00:00+08:00",
+            "website": "https://yz.bnu.edu.cn/detail/d2f541dd-127b-4b40-a9b5-d6ec401812bd",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京师范大学",
+            "institute": "文理学院",
+            "description": "",
+            "deadline": "2024-09-24T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/Pv5LXeOD6AoEmCKhiAmfXw",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "四川大学",
+            "institute": "计算机学院（软件学院 智能科学与技术学院）",
+            "description": "",
+            "deadline": "2024-09-22T16:00:00+08:00",
+            "website": "https://cs.scu.edu.cn/info/1247/18579.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京理工大学",
+            "institute": "网络空间安全学院",
+            "description": "",
+            "deadline": "2024-09-21T00:00:00+08:00",
+            "website": "https://cst.bit.edu.cn/xxfw/tzgg/bb017f985ad047b19a28ba8c629f8b32.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "东北师范大学",
+            "institute": "信息科学与技术学院",
+            "description": "",
+            "deadline": "2024-09-19T10:00:00+08:00",
+            "website": "https://ist.nenu.edu.cn/info/1157/5507.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "国防科技大学",
+            "institute": "计算机学院",
+            "description": "材料提交时间为9月19日24:00 前",
+            "deadline": "2024-09-23T00:00:00+08:00",
+            "website": "http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13905",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "南方科技大学",
+            "institute": "计算机科学与工程系",
+            "description": "",
+            "deadline": "2024-09-20T00:00:00+08:00",
+            "website": "https://cse.sustech.edu.cn/cn/news/view/id/1082",
+            "tags": [
+                "双非"
+            ]
+        },
+        {
+            "name": "北京航空航天大学",
+            "institute": "装置院",
+            "description": "",
+            "deadline": "2024-09-20T19:00:00+08:00",
+            "website": "https://piqs.buaa.edu.cn/info/1038/2327.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京航空航天大学",
+            "institute": "网络空间学院",
+            "description": "",
+            "deadline": "2024-09-19T22:00:00+08:00",
+            "website": "https://cst.buaa.edu.cn/info/1062/3749.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京航空航天大学",
+            "institute": "电子信息工程学院",
+            "description": "",
+            "deadline": "2024-09-20T18:00:00+08:00",
+            "website": "https://www.ee.buaa.edu.cn/info/1062/18732.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中国科学院大学",
+            "institute": "集成电路学院",
+            "description": "",
+            "deadline": "2024-09-25T00:00:00+08:00",
+            "website": "https://sme.ucas.ac.cn/index.php/zh-cn/zsjy/sszs/518-2025",
+            "tags": [
+                "双非"
+            ]
+        },
+        {
+            "name": "中国海洋大学",
+            "institute": "三亚海洋研究院",
+            "description": "",
+            "deadline": "2024-09-24T00:00:00+08:00",
+            "website": "http://soi.ouc.edu.cn/archive/info/1086",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京科技大学",
+            "institute": "校企联合培养工程硕博士",
+            "description": "",
+            "deadline": "2024-09-18T12:00:00+08:00",
+            "website": "https://yzxc.ustb.edu.cn/xlytm/hdap/f7077ed992554cf499cba3e544d356ba.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "电子科技大学",
+            "institute": "计算机（网安）学院",
+            "description": "",
+            "deadline": "2024-09-23T12:00:00+08:00",
+            "website": "https://www.scse.uestc.edu.cn/info/1015/16425.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "电子科技大学",
+            "institute": "信息与软件工程学院",
+            "description": "",
+            "deadline": "2024-09-23T09:00:00+08:00",
+            "website": "https://sise.uestc.edu.cn/info/1026/12772.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "武汉大学",
+            "institute": "计算机学院",
+            "description": "",
+            "deadline": "2024-09-21T12:00:00+08:00",
+            "website": "https://cs.whu.edu.cn/info/1071/46641.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "四川大学",
+            "institute": "视觉合成图形图像技术重点学科实验室",
+            "description": "",
+            "deadline": "2024-09-23T20:00:00+08:00",
+            "website": "https://vs.scu.edu.cn/info/1052/2073.htm",
+            "tags": [
+                "985",
+                "211"
             ]
         }
     ]
